@@ -1,7 +1,7 @@
 # **Health & Development Indicators: Global Insights**
 
 ## **Data Source**
-The dataset was sourced from Kaggle, available at the following link: [Health & Development Indicators: Global Insights]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/arunjangir245/life-expectancy-data) . It offers a comprehensive collection of health and development
+The dataset was sourced from Kaggle, available at the following link: [Health & Development Indicators: Global Insights](https://www.kaggle.com/datasets/arunjangir245/life-expectancy-data) . It offers a comprehensive collection of health and development
 indicators from various countries and regions worldwide.
 
 ## **Data Contents:**
