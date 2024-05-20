@@ -54,20 +54,24 @@ composition of resources.
 22. Schooling: Average number of years of schooling for adults aged 15 and older.
 
 ## **Ethical Considerations:**
-Privacy and Confidentiality:
-● Ensure sensitive data handling to protect individuals' privacy.
-● Anonymize or de-identify data where necessary.
-Informed Consent:
-● Consider participants' consent for data use.
-● Uphold ethical standards in data collection and analysis.
-Data Ownership and Attribution:
-● Attribute data sources appropriately.
-● Respect data contributors' ownership rights.
-Bias and Equity:
-● Examine findings through an equity lens.
-● Address societal inequalities and biases in analysis.
-Responsible Data Use:
-● Produce findings that positively impact public health and policy.
-● Prioritize integrity, transparency, and ethical conduct in research.
+#### Privacy and Confidentiality:
+- Ensure sensitive data handling to protect individuals' privacy.
+- Anonymize or de-identify data where necessary.
+
+#### Informed Consent:
+- Consider participants' consent for data use.
+- Uphold ethical standards in data collection and analysis.
+
+#### Data Ownership and Attribution:
+- Attribute data sources appropriately.
+- Respect data contributors' ownership rights.
+
+#### Bias and Equity:
+- Examine findings through an equity lens.
+- Address societal inequalities and biases in analysis.
+
+#### Responsible Data Use:
+- Produce findings that positively impact public health and policy.
+- Prioritize integrity, transparency, and ethical conduct in research.
 
 ## [Tableau storyboard](https://public.tableau.com/views/HealthDevelopmentIndicatorsGlobalInsights/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
